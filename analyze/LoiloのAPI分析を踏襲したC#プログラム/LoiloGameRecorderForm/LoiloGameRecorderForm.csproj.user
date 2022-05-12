@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartWorkingDirectory>C:\Users\admin\Documents\Visual Studio 2008\Projects\LoiloGameRecorderMicro\LoiloGameRecorderMicro\bin\Debug\</StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x64' ">
+    <StartWorkingDirectory>C:\Users\admin\Documents\Visual Studio 2008\Projects\LoiloGameRecorderMicro\LoiloGameRecorderMicro\bin\Debug\</StartWorkingDirectory>
+  </PropertyGroup>
+</Project>
